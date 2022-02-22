@@ -329,7 +329,7 @@ mapping = {
     'ls': 'long',
     'lt': 'lve',
     'lu': 'lu',
-    'lv': 'lve',
+    'lv': 'lv',
     'lw': 'lia',
     'lx': 'lie',
     'ly': 'ling',
