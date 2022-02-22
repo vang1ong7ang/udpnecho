@@ -1,0 +1,3 @@
+[submodule "thirdparty/Pinyin2Hanzi"]
+	path = thirdparty/Pinyin2Hanzi
+	url = https://github.com/letiantian/Pinyin2Hanzi.git
